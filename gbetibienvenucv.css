@@ -1,0 +1,38 @@
+
+body{
+				background:rgb(44,62,80,0.7);
+}
+h3{
+				text-align:center;
+				border-weight:bolder;
+				color:turquoise;
+				text-decoration:underline;
+}
+h1{
+				color:gold;
+				font-family:bold;
+				background-color:#ffff;
+				text-align:center;
+				border:5px solid turquoise;
+				border-radius:30px 40px 30px 40px ;
+}
+.obj h2{
+				text-align:center;
+				text-decoration:underline;
+				color:deeppink;
+}
+.obj p{
+				border:5px solid deeppink;
+				border-radius:2px 15px 2px 15px;
+}
+.info ul{
+				text-align:none;
+}
+
+footer{
+  padding:20px;
+  margin-top:20px;
+  color:#ffffff;
+  background-color:#e8491d;
+  text-align: center;
+}
